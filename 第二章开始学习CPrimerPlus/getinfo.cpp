@@ -1,7 +1,7 @@
 // getinfo.cpp -- input and output
 #include <iostream>
 
-int main()
+int main3()
 {
 	using namespace std;
 
