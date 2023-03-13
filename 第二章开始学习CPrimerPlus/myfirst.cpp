@@ -1,6 +1,6 @@
 #include<iostream> // a PREPROCESSOR directive
 
-int main() {
+int main1() {
 	using namespace std;	// make definitions visible
 	cout << "Come up and C++ me soem time.";
 	cout << endl;
