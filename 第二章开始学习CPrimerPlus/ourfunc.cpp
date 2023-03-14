@@ -3,7 +3,7 @@
 
 void simon(int); // function prototype for simon()
 
-int main()
+int main5()
 {
 	using namespace std;
 	simon(3); // call the simon() function
