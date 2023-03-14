@@ -3,7 +3,7 @@
 #include <iostream>
 #include <cmath>
 
-int main()
+int main4()
 {
 	using namespace std;
 
