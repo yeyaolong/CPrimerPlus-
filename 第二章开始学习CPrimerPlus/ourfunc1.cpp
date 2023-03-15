@@ -4,7 +4,7 @@ using namespace std; // affets all function definitions in this file
 
 void simon2(int);
 
-int main()
+int main7()
 {
 	simon2(3);
 	cout << "Pick an integer: ";
