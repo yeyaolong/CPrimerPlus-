@@ -1,8 +1,8 @@
-// limits.cpp -- some integer limits
+// ³ÌĞòÇåµ¥ 3.1 limits.cpp -- some integer limits
 #include<iostream>;
 #include<climits>; // use limits.h for older systems
 
-int main()
+int main1()
 {
 	using namespace std;
 
