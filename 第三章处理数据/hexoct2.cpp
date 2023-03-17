@@ -1,7 +1,7 @@
-// hexoct2.cpp -- display values in hex and octal
+// ≥Ã–Ú«Âµ•3.4 hexoct2.cpp -- display values in hex and octal
 #include <iostream>
 using namespace std;
-int main()
+int main4()
 {
 	using namespace std;
 	int chest = 42;
