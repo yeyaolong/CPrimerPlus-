@@ -11,6 +11,9 @@ int main()
 	cout << "\aYou entered " << code << "...\n";
 	cout << "\aCode verified! Proceed with Plan Z3!\n";
 	
+	int k\u00F6rper;
+	cout << "let them eat g\u00E2teau.\n";
+
 	return 0;
 }
 
