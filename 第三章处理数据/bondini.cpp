@@ -1,7 +1,7 @@
 // ≥Ã–Ú«Âµ• 3.7 bondini.cpp -- using escape sequences
 
 #include<iostream>
-int main()
+int main7()
 {
 	using namespace std;
 	cout << "\aOperation \"HyperHype\" is now activated!\n";
