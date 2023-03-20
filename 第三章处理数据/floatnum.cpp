@@ -1,7 +1,7 @@
 // ≥Ã–Ú«Âµ• 3.8 floatnum.cpp -- floating point types
 #include<iostream>
 
-int main9()
+int main8()
 {
 	using namespace std;
 	cout.setf(ios_base::fixed, ios_base::floatfield);	// fixed point

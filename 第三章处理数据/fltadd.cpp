@@ -1,6 +1,6 @@
 // ≥Ã–Ú«Âµ• 3.9 fltadd.cpp -- precision problems with float
 #include<iostream>
-int main()
+int main9()
 {
 	using namespace std;
 	float a = 2.34E+22f;
