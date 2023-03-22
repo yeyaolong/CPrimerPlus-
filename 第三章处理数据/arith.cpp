@@ -1,6 +1,6 @@
 // ≥Ã–Ú«Âµ• 3.10 arith.cpp
 #include <iostream>
-int main()
+int main10()
 {
 	using namespace std;
 	float hats, heads;
