@@ -1,6 +1,6 @@
 // ≥Ã–Ú«Âµ• 3.12
 #include<iostream>
-int main()
+int main12()
 {
 	using namespace std;
 	const int Lbs_per_stn = 14;
