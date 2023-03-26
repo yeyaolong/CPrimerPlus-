@@ -1,7 +1,7 @@
 // ≥Ã–Ú«Âµ•3.13 assign.cpp -- type changes on initialization
 
 #include<iostream>
-int main()
+int main13()
 {
 	using namespace std;
 	cout.setf(ios_base::fixed, ios_base::floatfield);
