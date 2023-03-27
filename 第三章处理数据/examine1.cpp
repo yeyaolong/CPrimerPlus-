@@ -6,7 +6,7 @@
   */
 #include<iostream>
 
-int main()
+int main_examine1()
 {
 	using namespace std;
 	cout << "请输入你的身高（英寸）______\b\b\b\b\b\b";
