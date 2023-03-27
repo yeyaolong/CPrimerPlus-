@@ -5,7 +5,7 @@
   */
 #include<iostream>
 
-int main()
+int main_examin3()
 {
 	using namespace std;
 	float degree = 0; // 度
@@ -28,4 +28,6 @@ int main()
 	float degree2 = degree + minute / 60 + seconds / 60 / 60;
 
 	cout << "计算结果为：" << degree2 << " 度";
+
+	return 0;
 }
