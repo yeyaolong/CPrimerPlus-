@@ -3,7 +3,7 @@
 #include<iostream>
 #include<cstring> // for the strlen() function
 
-int main()
+int main2()
 {
 	using namespace std;
 	const int Size = 15;
