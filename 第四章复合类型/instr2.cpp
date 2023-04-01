@@ -1,7 +1,7 @@
 // ≥Ã–Ú«Âµ• 4.4 instr2.cpp -- reading more than one word with getling
 
 #include<iostream>
-int main()
+int main4()
 {
 	using namespace std;
 	const int ArSize = 20;
