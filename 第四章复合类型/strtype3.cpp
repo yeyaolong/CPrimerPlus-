@@ -3,7 +3,7 @@
 #include<string>	// make string class availabel
 #include<cstring>	// C-style string library
 
-int main()
+int main9()
 {
 	using namespace std;
 	char charr1[20];
