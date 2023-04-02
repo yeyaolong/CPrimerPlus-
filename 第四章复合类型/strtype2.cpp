@@ -2,7 +2,7 @@
 #include<iostream>
 #include<string>	// make string class avaliable
 
-int main()
+int main9()
 {
 	using namespace std;
 	string s1 = "penguin";
