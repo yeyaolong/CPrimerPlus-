@@ -3,7 +3,7 @@
 #include<string>	// make string class avaliable
 #include<cstring>	// C-style string library
 
-int main()
+int main10()
 {
 	using namespace std;
 
