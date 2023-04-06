@@ -8,7 +8,7 @@ struct inflatable
 	double price;
 };
 
-int main()
+int main13()
 {
 	using namespace std;
 	inflatable guests[2] =	// initializing an array of structs
