@@ -1,6 +1,6 @@
 // ≥Ã–Ú«Âµ•4.14 address.cpp -- using the & operator to find address
 #include<iostream>
-int main()
+int main14()
 {
 	using namespace std;
 	int donuts = 6;
