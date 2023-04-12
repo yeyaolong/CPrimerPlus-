@@ -1,7 +1,7 @@
 // ≥Ã–Ú«Âµ•4.17 use_new.cpp -- using new operator
 
 #include<iostream>
-int main()
+int main17()
 {
 	using namespace std;
 	int nights = 1001;
