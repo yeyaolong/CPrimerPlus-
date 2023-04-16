@@ -1,6 +1,6 @@
 // ≥Ã–Ú«Âµ•4.19 addpntrs.cpp -- pointer ddition
 #include<iostream>
-int main()
+int main19()
 {
 	using namespace std;
 	double wages[3] = { 10000.0, 20000.0, 30000.0 };
