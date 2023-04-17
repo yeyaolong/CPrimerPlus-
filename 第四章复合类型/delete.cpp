@@ -6,7 +6,7 @@ using namespace std;
 
 char* getname(void);	// function prototype
 
-int main()
+int main22()
 {
 	char* name;	// create pointer but no storage
 
