@@ -7,7 +7,7 @@ struct antarctica_years_end
 	/* some really interesting data, etc. */
 };
 
-int main()
+int main23()
 {
 	antarctica_years_end s01, s02, s03;
 	s01.year = 1998;
