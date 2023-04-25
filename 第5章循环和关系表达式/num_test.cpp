@@ -1,6 +1,6 @@
 // ≥Ã–Ú«Âµ•5.2 num_test.cpp -- use numeric test in for loop
 #include<iostream>
-int main()
+int main2()
 {
 	using namespace std;
 	cout << "Enter the starting countdown value: ";
