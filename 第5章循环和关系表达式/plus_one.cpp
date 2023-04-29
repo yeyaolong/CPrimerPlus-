@@ -1,6 +1,6 @@
 // ≥Ã–Ú«Âµ• 5.7 plus_one.cpp -- the increment operator
 #include<iostream>
-int main()
+int main7()
 {
 	using std::cout;
 	int a = 20;
