@@ -1,7 +1,7 @@
 // ≥Ã–Ú«Âµ• 5.9 forstr2.cpp -- reversing an array
 #include<iostream>
 #include<string>
-int main()
+int main9()
 {
 	using namespace std;
 	cout << "Enter a word: ";
