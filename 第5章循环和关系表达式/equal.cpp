@@ -1,6 +1,6 @@
 // ≥Ã–Ú«Âµ• 5.10 equal.cpp -- equality vs assignment
 #include<iostream>
-int main()
+int main10()
 {
 	using namespace std;
 	int quizscores[10] = {
