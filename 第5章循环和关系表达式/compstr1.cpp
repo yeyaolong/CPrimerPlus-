@@ -2,7 +2,7 @@
 #include<iostream>
 #include<string>	// prototype for strcmp()
 
-int main()
+int main11()
 {
 	using namespace std;
 	char word[5] = "?ate";
