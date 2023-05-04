@@ -1,7 +1,7 @@
 // ≥Ã–Ú«Âµ•5.13 while.cpp -- introducing the while loop
 #include<iostream>
 const int ArSize = 20;
-int main()
+int main13()
 {
 	using namespace std;
 	char name[ArSize];
