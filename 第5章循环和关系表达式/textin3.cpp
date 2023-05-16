@@ -1,6 +1,6 @@
 // ≥Ã–Ú«Âµ• 5.18 textin3.cpp -- reading chars to end of file
 #include<iostream>
-int main()
+int main18()
 {
 	using namespace std;
 	char ch;
