@@ -2,7 +2,7 @@
 #include<iostream>
 #include<ctime>	// describe clock() function, clock t type
 
-int main()
+int main14()
 {
 	using namespace std;
 	cout << "Enter the delay time ,in seconds£º";
