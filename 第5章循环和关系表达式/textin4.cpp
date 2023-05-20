@@ -1,6 +1,6 @@
-// textin4.cpp -- reading chars with cin.get()
+// ≥Ã–Ú«Âµ• 5.19 textin4.cpp -- reading chars with cin.get()
 #include<iostream>
-int main(void)
+int main19(void)
 {
 	using namespace std;
 	int ch;	// should be int, not char

@@ -1,6 +1,6 @@
 // ≥Ã–Ú«Âµ• 5.17 textin2.cpp -- using cin.get(char)
 #include<iostream>
-int main()
+int main17()
 {
 	using namespace std;
 	char ch;
