@@ -1,6 +1,6 @@
 // ≥Ã–Ú«Âµ• 6.2 ifelse.cpp -- using the if else statement
 #include<iostream>
-int main()
+int main2()
 {
 	char ch;
 
