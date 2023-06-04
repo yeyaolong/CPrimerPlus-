@@ -1,7 +1,7 @@
 // ≥Ã–Ú«Âµ• 6.9 condit.cpp
 // condit.cpp -- using the conditional operator
 #include<iostream>
-int main()
+int main9()
 {
 	using namespace std;
 	int a, b;
