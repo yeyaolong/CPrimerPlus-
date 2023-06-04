@@ -11,7 +11,7 @@ enum {
 	indigo
 };
 
-int main()
+int main11()
 {
 	using namespace std;
 	cout << "Enter color code(0-6):";

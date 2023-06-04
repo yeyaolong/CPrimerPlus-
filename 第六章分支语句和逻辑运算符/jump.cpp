@@ -1,7 +1,7 @@
 // ≥Ã–Ú«Âµ• 6.12 jump.cpp -- using continue and break
 #include<iostream>
 const int ArSize = 80;
-int main()
+int main12()
 {
 	using namespace std;
 	char line[ArSize];
