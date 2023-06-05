@@ -1,7 +1,7 @@
-// cinfish.cpp -- non-numeric input terminates loop
+// ≥Ã–Ú«Âµ•6.13 cinfish.cpp -- non-numeric input terminates loop
 #include<iostream>
 const int Max = 5;
-int main()
+int main13()
 {
 	using namespace std;
 	// get data
