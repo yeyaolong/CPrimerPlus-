@@ -1,7 +1,7 @@
 // ≥Ã–Ú«Âµ• 6.14 cingolf.cpp
 #include<iostream>
 const int Max = 5;
-int main()
+int main14()
 {
 	using namespace std;
 
