@@ -2,7 +2,7 @@
 #include<iostream>
 #include<fstream>
 
-int main()
+int main15()
 {
 
 	using namespace std;
