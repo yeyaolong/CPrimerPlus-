@@ -4,7 +4,7 @@
 using namespace std;
 void n_chars(char, int);
 
-int main()
+int main3()
 {
 	int times;
 	char ch;
