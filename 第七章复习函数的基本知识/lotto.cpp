@@ -4,7 +4,7 @@
 
 long double probability(unsigned number, unsigned picks);
 
-int main()
+int main4()
 {
 	using namespace std;
 	double total, choices;
