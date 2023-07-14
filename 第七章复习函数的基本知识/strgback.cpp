@@ -1,7 +1,7 @@
-// strgback.cpp -- a function that returns a pointer to char
+// ≥Ã–Ú«Âµ• 7.10 strgback.cpp -- a function that returns a pointer to char
 #include<iostream>
 char* buildstr(char c, int n);
-int main()
+int main10()
 {
 	using namespace std;
 	int times;
