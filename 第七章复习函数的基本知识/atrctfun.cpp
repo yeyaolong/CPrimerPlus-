@@ -19,7 +19,7 @@ struct rect
 polar rect_to_polar(rect xypos);
 void show_polar(polar dapos);
 
-int main()
+int main12()
 {
 	using namespace std;
 
