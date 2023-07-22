@@ -8,7 +8,7 @@ const int SIZE = 5;
 
 void display(const string sa[], int n);
 
-int main()
+int main14()
 {
 	string list[SIZE];
 	cout << "Enter your " << SIZE << " favorite astronomical sights:\n";
