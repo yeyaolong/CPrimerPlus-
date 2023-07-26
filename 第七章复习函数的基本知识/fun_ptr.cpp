@@ -8,7 +8,7 @@ double pam(int);
 
 void estimate(int lines, double (*pf)(int));
 
-int main()
+int main18()
 {
 	using namespace std;
 
