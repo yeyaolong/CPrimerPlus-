@@ -1,4 +1,4 @@
-// inline.cpp -- using an inline function
+// ≥Ã–Ú«Âµ• 8.1 -- inline.cpp -- using an inline function
 #include<iostream>
 
 // an inline function definition
@@ -6,7 +6,7 @@ inline double square(double x) {
 	return x * x;
 }
 
-int main()
+int main1()
 {
 
 	using namespace std;
