@@ -1,6 +1,6 @@
 // ≥Ã–Ú«Âµ• 8.3 sceref.cpp -- defining and using a reference
 #include<iostream>
-int main()
+int main3()
 {
 	using namespace std;
 	int rats = 10l;
