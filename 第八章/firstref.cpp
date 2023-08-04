@@ -1,6 +1,6 @@
 // ³ÌĞòÇåµ¥ 8.2 firstref.app -- defining and using a reference
 #include<iostream>
-int main()
+int main2()
 {
 	using namespace std;
 	int rats = 10l;

@@ -3,7 +3,7 @@
 #include<iostream>
 #include"swaps.h"
 
-int main()
+int main4()
 {
 	using namespace std;
 	int wallet1 = 300;
