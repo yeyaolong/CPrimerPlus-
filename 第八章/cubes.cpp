@@ -2,7 +2,7 @@
 #include<iostream>
 #include"cubes.h"
 
-int main()
+int main5()
 {
 	using namespace std;
 	double x = 3.0;
