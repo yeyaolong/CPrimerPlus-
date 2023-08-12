@@ -2,7 +2,7 @@
 #include <iostream>
 #include"strtref.h"
 
-int main()
+int main6()
 {
 	// partial initializations - remaining members set to 0
 	free_throws one = { "Ifelsa Branch", 13, 14 };
