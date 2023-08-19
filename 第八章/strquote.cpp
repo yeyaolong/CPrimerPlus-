@@ -1,7 +1,7 @@
 // ≥Ã–Ú«Âµ• 8.7 strquote.cpp -- different designs
 #include"strquote.h"
 
-int main()
+int main7()
 {
 	string input;
 	string copy;
@@ -27,6 +27,8 @@ int main()
 	result = version3(input, "@@@");
 	cout << "Your string enhanced: " << result << endl;
 	cout << "Your original string: " << input << endl;
+
+	return 0;
 }
 
 string version1(const string& s1, const string& s2)
