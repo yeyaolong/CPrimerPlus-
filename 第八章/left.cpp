@@ -4,7 +4,7 @@
 const int ArSize = 80;
 char* left(const char* str, int n = 1);
 
-int main()
+int main9()
 {
 	using namespace std;
 	char sample[ArSize];
