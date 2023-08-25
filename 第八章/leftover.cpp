@@ -5,7 +5,7 @@ unsigned long left10(unsigned long num, unsigned ct);
 
 char* left10(const char* str, int n = 1);
 
-int main()
+int main10()
 {
 	using namespace std;
 	const char* trip = "Hawaii!!"; // test value
