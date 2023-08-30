@@ -4,7 +4,7 @@
 template <typename T> // or class T
 void Swap(T& a, T& b);
 
-int main()
+int main11()
 {
 	using namespace std;
 	int i = 10;
