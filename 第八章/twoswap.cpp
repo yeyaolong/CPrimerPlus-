@@ -15,7 +15,7 @@ struct job
 template <> void Swap<job>(job& j1, job& j2);
 void Show(job& j);
 
-int main()
+int main13()
 {
 	using namespace std;
 	cout.precision(2);
